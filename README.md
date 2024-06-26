@@ -20,23 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Uso de ferramentas de ia para pesquisa e redação acadêmica
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 5 páginas aborda o uso revolucionário de ferramentas de Inteligência Artificial (IA) para pesquisa e redação acadêmica, destacando como elas estão transformando esses processos e moldando o futuro da educação.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para auxiliar na pesquisa e redação;
+IA Generativa Languagetools para correções de erro ortográfico e gramático;
+Ferramenta Office355 Copilot para edição e formatação final.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para desenvolver este e-book, utilizei o "ChatGPT" para realizar pesquisas sobre o uso de IAs na educação, estruturar o conteúdo e refinar as ideias. Em seguida, o Office365 Copilot foi empregado para gerar e organizar o conteudo que complementam o texto. Por fim, a Languagemtools para correçoes de texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo informativo, abrangente e visualmente atraente, demonstrando como as ferramentas de IA podem ser uma poderosa aliada na pesquisa e redação acadêmica, otimizando o tempo e melhorando a qualidade dos trabalhos produzidos.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar este e-book foi uma experiência iluminadora sobre o potencial das ferramentas de IA na educação e como elas podem ser aplicadas para aprimorar os processos de pesquisa e redação acadêmica. Além disso, pude constatar como essas tecnologias podem contribuir para a disseminação do conhecimento de forma mais eficiente e acessível.
 
 ### Exemplos e Insigths
 
